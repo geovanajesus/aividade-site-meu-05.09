@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    background: linear-gradient(120deg, #bd1a3dd8, #45209bda, #0f4570d8);
+}
+
+
+h1{
+    color: rgb(8, 27, 44);
+
+}
